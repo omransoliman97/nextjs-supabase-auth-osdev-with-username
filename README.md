@@ -13,6 +13,41 @@ This template adds a **custom username system** to the sign-up flow. When users 
 - Last name  
 - **Username** (unique and automatically generated if not provided)
 
+## 📦 Installation
+
+### Using npx (Recommended)
+
+Create a new project instantly :
+```bash
+npx osdev-auth-supabase-with-username my-app
+cd my-app
+npm install
+```
+
+### Using npm
+
+Install globally and create projects:
+```bash
+# Install globally
+npm install -g osdev-auth-supabase-with-username
+
+# Create a new project
+create-osdev-auth my-app
+cd my-app
+npm install
+```
+
+### Manual Installation
+
+Clone the repository directly:
+```bash
+git clone https://github.com/omransoliman97/nextjs-supabase-auth-osdev-with-username.git my-app
+cd my-app
+npm install
+```
+
+---
+
 ## How It Works
 
 ### 1. Sign Up Flow
