@@ -5,6 +5,12 @@ A complete authentication system built with Supabase that includes a custom user
 ## Video Toturial 
 Link : Coming Soon
 
+## 📸 Gallery
+
+[![View Gallery](https://picflow.media/images/resized/1920x1080q85/561e179d-513e-4b28-9b50-9f692b25df6e.jpg)](https://omransolimantech.picflow.com/WXYM9Iq1qEFlkLML)
+
+**[Click image or here to view full gallery →](https://omransolimantech.picflow.com/WXYM9Iq1qEFlkLML)**
+
 ## This Template
 
 This template adds a **custom username system** to the sign-up flow. When users register (via email, OAuth, or any provider), their profile is automatically created with:
